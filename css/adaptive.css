@@ -1,0 +1,739 @@
+@media screen and (min-width: 1921px) {
+  
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+    
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+
+    .section_two {
+        display: flex;
+        flex-direction: column;
+        height: 185vw;
+    }
+    .left_screen {
+        width: 100vw;
+        height: 100vw;}
+
+        .lscreen_top_left {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .lscreen_top_right {
+            width: 50vw;
+            height: 50vw;
+        }
+
+        .lscreen_bottom_left {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .lscreen_bottom_right {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .right_screen {
+            width: 100vw;
+            height: 53vw;
+        }
+
+        .rscreen_top_left {
+            width: 50vw;
+            height: 70.4vw
+        }
+
+        .left_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .blue_ellipse {
+            width: 6vw;
+            height: 6vw;
+        }
+
+        .right_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .rscreen_top_right {
+            width: 50vw;
+            height: 53.4vw;
+        }
+
+        .inside_top {
+            width: 50vw;
+            height: 100vw;
+        }
+
+        .rec_inside {
+            width: 8vw;
+            height: 8vw;
+        }
+
+        .inside_bottom {
+            width: 50vw;
+            height: 100vw;
+        }
+
+
+        .rscreen_bottom_left {
+            width: 100%;
+            height: 13.3vw;
+        }
+
+        .inside_bottom h2 {
+            font-size: 6.2vw;
+            line-height: 139%;
+            margin-bottom: -15%;
+        }
+
+        .lsbl_ellipse {
+            width: 25vw;
+            height: 30vw;
+        }
+
+        .screen_four {
+            display: flex;
+            flex-direction: column;
+            height: 150vw;
+            background: linear-gradient(120deg, #24288c, #EFCF18, #3EAB26);
+    background-size: 150% 100%;
+    animation: gradient 7s cubic-bezier(0, 0, 1, 1) infinite;
+        }
+
+        .inter_block {
+            flex-direction: column;
+            width: 100%;
+            height: 150vw;
+            display: flex;
+            align-items: center;
+            margin: 0 0 8vw 0;
+        }
+
+        .inter_block_left {
+            margin: 7vw 0 2vw 0vw;
+            width: 90%;
+            height: 100vw;
+        }
+
+        .rec4s_1 {
+            width: 97%;
+            height: 58vw;}
+
+        .rec4s_2 {
+            width: 96%;
+            height: 49vw;}
+        
+        .rec4s_3 {
+            width: 95%;
+            height: 39vw;}
+
+            .rec4s_4 {
+                width: 96%;
+                height: 30vw;}
+        
+                .rec4s_5 {
+            width: 96%;
+            height: 24.6vw;}
+
+        .rec4s_6 {
+            width: 96%;
+            height: 19.5vw;}
+
+
+        .rec4s_7 {
+            width: 96%;
+            height: 14.5vw;}
+
+            .inter_block_right {
+                width: 90%;
+                height: 100vw;
+                margin-top: 1vw;
+            }
+
+            .recibr1, .recibr2, .recibr3, .recibr4, .recibr5, .recibr6, .recibr7, .recibr8, .recibr9, .recibr10, .recibr11, .recibr12, .recibr13, .recibr14, .recibr15, .recibr16, .recibr17, .recibr18, .recibr19, .recibr20, .recibr21, .recibr22, .recibr23, .recibr24, .recibr25, .recibr26, .recibr27, .recibr28, .recibr29, .recibr30, 
+            .recibr31, .recibr32, .recibr33, .recibr34, .recibr35, .recibr36, .recibr37, .recibr38, .recibr39, .recibr40, .recibr41, .recibr42, .recibr43, .recibr44, .recibr45, .recibr46, .recibr47, .recibr48, .recibr49, .recibr50 {
+                width: 2vw;
+                height: 80vw;
+                margin-right: 0.3vw;
+            }   
+
+            .big_circle11 {
+                width: 60vw;
+                height: 60vw;
+                margin: 4vw 0 0 15vw;
+            }
+
+
+   
+}
+
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+
+    .section_two {
+        display: flex;
+        flex-direction: column;
+        height: 185vw;
+    }
+    .left_screen {
+        width: 100vw;
+        height: 100vw;}
+
+        .lscreen_top_left {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .lscreen_top_right {
+            width: 50vw;
+            height: 50vw;
+        }
+
+        .lscreen_bottom_left {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .lscreen_bottom_right {
+            width: 50vw;
+            height: 50vw;
+        }
+    
+        .right_screen {
+            width: 100vw;
+            height: 53vw;
+        }
+
+        .rscreen_top_left {
+            width: 50vw;
+            height: 70.4vw
+        }
+
+        .left_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .blue_ellipse {
+            width: 6vw;
+            height: 6vw;
+        }
+
+        .right_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .rscreen_top_right {
+            width: 50vw;
+            height: 53.4vw;
+        }
+
+        .inside_top {
+            width: 50vw;
+            height: 100vw;
+        }
+
+        .rec_inside {
+            width: 8vw;
+            height: 8vw;
+        }
+
+        .inside_bottom {
+            width: 50vw;
+            height: 100vw;
+        }
+
+        .horiz_black_centre {
+            width: 35vw;
+        }
+
+        .rot_yellow_11deg {
+            width: 35vw;
+        }
+
+        .rot_green_22deg {
+            width: 35vw;
+        }
+        .rot_white_33deg {
+            width: 35vw;
+        }
+        .rot_black_45deg {
+            width: 35vw;
+        }
+        .rot_yellow_56deg {
+            width: 35vw;
+        }
+        .rot_green_67deg {
+            width: 35vw;
+        }
+
+        .rot_white_78deg {
+            width: 35vw;
+        }
+
+        .rot_black_90deg {
+            width: 35vw;
+        }
+        .rot_yellow_101deg {
+            width: 35vw;
+        }
+        .rot_green_112deg {
+            width: 35vw;
+        }
+        .rot_white_123deg {
+            width: 35vw;
+        }
+        .rot_black_134deg {
+            width: 35vw;
+        }
+
+        .rot_green_156deg {
+            width: 35vw;
+        }
+        .rot_white_167deg {
+            width: 35vw;
+        }
+
+        .rscreen_bottom_left {
+            width: 100%;
+            height: 13.3vw;
+        }
+
+        .inside_bottom h2 {
+            font-size: 6.2vw;
+            line-height: 139%;
+            margin-bottom: -15%;
+        }
+
+        .lsbl_ellipse {
+            width: 25vw;
+            height: 30vw;
+        }
+
+        .screen_four {
+            display: flex;
+            flex-direction: column;
+            height: 150vw;
+        }
+
+        .inter_block {
+            flex-direction: column;
+            width: 100%;
+            height: 150vw;
+            display: flex;
+            align-items: center;
+            margin: 0 0 8vw 0;
+        }
+
+        .inter_block_left {
+            margin: 7vw 0 2vw 0vw;
+            width: 90%;
+            height: 100vw;
+        }
+
+        .rec4s_1 {
+            width: 97%;
+            height: 58vw;}
+
+        .rec4s_2 {
+            width: 96%;
+            height: 49vw;}
+        
+        .rec4s_3 {
+            width: 95%;
+            height: 39vw;}
+
+            .rec4s_4 {
+                width: 96%;
+                height: 30vw;}
+        
+                .rec4s_5 {
+            width: 96%;
+            height: 24.6vw;}
+
+        .rec4s_6 {
+            width: 96%;
+            height: 19.5vw;}
+
+
+        .rec4s_7 {
+            width: 96%;
+            height: 14.5vw;}
+
+            .inter_block_right {
+                width: 90%;
+                height: 100vw;
+                margin-top: 1vw;
+            }
+
+            .recibr1, .recibr2, .recibr3, .recibr4, .recibr5, .recibr6, .recibr7, .recibr8, .recibr9, .recibr10, .recibr11, .recibr12, .recibr13, .recibr14, .recibr15, .recibr16, .recibr17, .recibr18, .recibr19, .recibr20, .recibr21, .recibr22, .recibr23, .recibr24, .recibr25, .recibr26, .recibr27, .recibr28, .recibr29, .recibr30, 
+            .recibr31, .recibr32, .recibr33, .recibr34, .recibr35, .recibr36, .recibr37, .recibr38, .recibr39, .recibr40, .recibr41, .recibr42, .recibr43, .recibr44, .recibr45, .recibr46, .recibr47, .recibr48, .recibr49, .recibr50 {
+                width: 2vw;
+                height: 80vw;
+                margin-right: 0.3vw;
+            }   
+
+            .big_circle11 {
+                width: 60vw;
+                height: 60vw;
+                margin: 4vw 0 0 15vw;
+            }
+
+
+    
+}
+
+@media screen and (max-width: 414px) {
+
+    .section_two {
+        display: flex;
+        flex-direction: column;
+        height: 684vw;
+    }
+
+    .left_screen {
+        flex-direction: column;
+        display: flex;
+        width: 100vw;
+        height: 400vw;
+    }
+
+        .lscreen_top_left {
+            width: 100vw;
+            height: 100vw;
+        }
+    
+        .lscreen_top_right {
+            width: 100vw;
+            height: 100vw;
+        }
+
+        .lscreen_bottom_left {
+            width: 100vw;
+            height: 100vw;
+        }
+    
+        .lscreen_bottom_right {
+            width: 100vw;
+            height: 100vw;
+        }
+    
+        .right_screen {
+            width: 100vw;
+            height: 363vw;
+        }
+
+        .rscreen_top_left {
+            width: 100vw;
+            height: 70.4vw
+        }
+
+        .left_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .blue_ellipse {
+            width: 9vw;
+            height: 9vw;
+        }
+
+        .right_long {
+            width: 50%;
+            height: 100%;
+        }
+
+        .rscreen_top_right {
+            width: 100vw;
+            height: 200vw;
+        }
+
+        .inside_top {
+            width: 100vw;
+            height: 100vw;
+        }
+
+        .falling_ellipse {
+            width: 15vw;
+            height: 15vw;
+        }
+
+        .horiz_black_centre {
+            width: 85vw;
+        }
+
+        .rot_yellow_11deg {
+            width: 85vw;
+        }
+
+        .rot_green_22deg {
+            width: 85vw;
+        }
+        .rot_white_33deg {
+            width: 85vw;
+        }
+        .rot_black_45deg {
+            width: 85vw;
+        }
+        .rot_yellow_56deg {
+            width: 85vw;
+        }
+        .rot_green_67deg {
+            width: 85vw;
+        }
+
+        .rot_white_78deg {
+            width: 85vw;
+        }
+
+        .rot_black_90deg {
+            width: 85vw;
+        }
+        .rot_yellow_101deg {
+            width: 85vw;
+        }
+        .rot_green_112deg {
+            width: 85vw;
+        }
+        .rot_white_123deg {
+            width: 85vw;
+        }
+        .rot_black_134deg {
+            width: 85vw;
+        }
+
+        .rot_green_156deg {
+            width: 85vw;
+        }
+        .rot_white_167deg {
+            width: 85vw;
+        }
+
+        .falling_ellipse_color {
+            width: 15vw;
+            height: 15vw;}
+
+        .rec_inside {
+            width: 16vw;
+            height: 16vw;
+        }
+
+        .inside_bottom {
+            width: 100vw;
+            height: 100vw;
+        }
+
+
+        .rscreen_bottom_left {
+            width: 100%;
+            height: 13.3vw;
+        }
+
+        .inside_bottom h2 {
+            font-size: 12.3vw;
+            line-height: 134%;
+            margin-bottom: -85%;
+        }
+
+        .lsbl_ellipse {
+            width: 45vw;
+            height: 50vw;
+        }
+
+        .screen_four {
+            display: flex;
+            flex-direction: column;
+            height: 150vw;
+        }
+
+        .inter_block {
+            flex-direction: column;
+            width: 100%;
+            height: 150vw;
+            display: flex;
+            align-items: center;
+            margin: 0 0 8vw 0;
+        }
+
+        .inter_block_left {
+            margin: 7vw 0 2vw 0vw;
+            width: 90%;
+            height: 100vw;
+        }
+
+        .rec4s_1 {
+            width: 97%;
+            height: 58vw;}
+
+        .rec4s_2 {
+            width: 96%;
+            height: 49vw;}
+        
+        .rec4s_3 {
+            width: 95%;
+            height: 39vw;}
+
+            .rec4s_4 {
+                width: 96%;
+                height: 30vw;}
+        
+                .rec4s_5 {
+            width: 96%;
+            height: 24.6vw;}
+
+        .rec4s_6 {
+            width: 96%;
+            height: 19.5vw;}
+
+
+        .rec4s_7 {
+            width: 96%;
+            height: 14.5vw;}
+
+            .inter_block_right {
+                width: 90%;
+                height: 100vw;
+                margin-top: 1vw;
+            }
+
+            .recibr1, .recibr2, .recibr3, .recibr4, .recibr5, .recibr6, .recibr7, .recibr8, .recibr9, .recibr10, .recibr11, .recibr12, .recibr13, .recibr14, .recibr15, .recibr16, .recibr17, .recibr18, .recibr19, .recibr20, .recibr21, .recibr22, .recibr23, .recibr24, .recibr25, .recibr26, .recibr27, .recibr28, .recibr29, .recibr30, 
+            .recibr31, .recibr32, .recibr33, .recibr34, .recibr35, .recibr36, .recibr37, .recibr38, .recibr39, .recibr40, .recibr41, .recibr42, .recibr43, .recibr44, .recibr45, .recibr46, .recibr47, .recibr48, .recibr49, .recibr50 {
+                width: 2vw;
+                height: 80vw;
+                margin-right: 0.3vw;
+            }   
+
+            .big_circle11 {
+                width: 60vw;
+                height: 60vw;
+                margin: 4vw 0 0 15vw;
+            }
+
+            .ellipse_ltr1 {
+                width: 70vw;
+                height: 70vw;
+            }
+
+            .ellipse_ltr2 {
+                width: 65vw;
+                height: 65vw;
+            }
+
+            .ellipse_ltr3 {
+                width: 60vw;
+                height: 60vw;
+            }
+
+            .ellipse_ltr4 {
+                width: 55vw;
+                height: 55vw;
+            }
+
+
+            .ellipse_ltr5 {
+                width: 50vw;
+                height: 50vw;
+            }
+
+            .ellipse_ltr6 {
+                width: 45vw;
+                height: 45vw;
+            }
+
+            .ellipse_ltr7 {
+                width: 40vw;
+                height: 40vw;
+            }
+
+            .ellipse_ltr8 {
+                width: 35vw;
+                height: 35vw;
+            }
+
+            .ellipse_ltr9 {
+                width: 30vw;
+                height: 30vw;
+            }
+
+            .ellipse_ltr10 {
+                width: 25vw;
+                height: 25vw;
+            }
+
+            .ellipse_ltr11 {
+                width: 20vw;
+                height: 20vw;
+            }
+
+            .ellipse_ltr12 {
+                width: 15vw;
+                height: 15vw;
+            }
+
+            .ellipse_ltr13 {
+                width: 10vw;
+                height: 10vw;
+            }
+
+
+        }
+
+
+
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+
+/* Большие экраны */
+@media screen and (min-width: 1921px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 1921px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* От 1441px до 1920px */
+@media screen and (min-width: 1441px) and (max-width: 1920px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* От 769px до 1440px */
+@media screen and (min-width: 769px) and (max-width: 1440px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+
+/* От 415px до 768px */
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (min-width: 415px) and (max-width: 768px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
+
+/* Максимум 414px */
+@media screen and (max-width: 414px) and (orientation: landscape) {
+    /* Горизонтальная ориентация */
+}
+
+@media screen and (max-width: 414px) and (orientation: portrait) {
+    /* Вертикальная ориентация */
+}
